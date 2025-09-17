@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pas-stealth">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/pas-stealth.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

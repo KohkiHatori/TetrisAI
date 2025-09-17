@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="rl-viter-maze">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/rl-viter-maze.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
