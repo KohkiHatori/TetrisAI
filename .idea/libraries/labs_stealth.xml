@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="labs-stealth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/labs-stealth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
